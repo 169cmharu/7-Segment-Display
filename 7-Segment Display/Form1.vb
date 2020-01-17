@@ -21,6 +21,26 @@
             DisplayDigit(True, True, True, True, True, True, True)
         ElseIf counter = 9 Then
             DisplayDigit(True, True, True, True, False, True, True)
+        ElseIf counter = 10 Then
+            DisplayDigit(True, True, True, True, False, True, True)
+        ElseIf counter = 11 Then
+            DisplayDigit(True, True, True, True, True, True, True)
+        ElseIf counter = 12 Then
+            DisplayDigit(True, True, True, False, False, False, False)
+        ElseIf counter = 13 Then
+            DisplayDigit(True, False, True, True, True, True, True)
+        ElseIf counter = 14 Then
+            DisplayDigit(True, False, True, True, False, True, True)
+        ElseIf counter = 15 Then
+            DisplayDigit(False, True, True, False, False, True, True)
+        ElseIf counter = 16 Then
+            DisplayDigit(True, True, True, True, False, False, True)
+        ElseIf counter = 17 Then
+            DisplayDigit(True, True, False, True, True, False, True)
+        ElseIf counter = 18 Then
+            DisplayDigit(False, True, True, False, False, False, False)
+        ElseIf counter = 19 Then
+            DisplayDigit(True, True, True, True, True, True, False)
             counter = -1
         End If
         counter += 1
