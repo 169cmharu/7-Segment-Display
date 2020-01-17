@@ -1,0 +1,11 @@
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\bin\Debug\7-Segment Display.exe.config
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\bin\Debug\7-Segment Display.exe
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\bin\Debug\7-Segment Display.pdb
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\bin\Debug\7-Segment Display.xml
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\7-Segment Display.vbprojAssemblyReference.cache
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\_7_Segment_Display.Form1.resources
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\_7_Segment_Display.Resources.resources
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\7-Segment Display.vbproj.GenerateResource.cache
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\7-Segment Display.exe
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\7-Segment Display.xml
+C:\Users\4\source\repos\7-Segment Display\7-Segment Display\obj\Debug\7-Segment Display.pdb
